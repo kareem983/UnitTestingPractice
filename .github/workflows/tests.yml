@@ -25,13 +25,8 @@ jobs:
         run: dotnet restore
 
       - name: Build
-        run: dotnet build --configuration Release --no-restore
+        run: dotnet build 
 
       - name: Test
-        run: dotnet test --configuration Release --no-build --logger "trx;LogFileName=test_results.trx" --results-directory ./test_results
-
-      - name: Publish Test Results
-        uses: actions/upload-artifact@v2
-        with:
-          name: TestResults
-          path: ./test_results
+        run: dotnet test 
+ 
