@@ -1,0 +1,37 @@
+name: tests
+
+on:
+  push:
+    branches:
+      - 'main'
+  pull_request:
+    branches:
+      - main
+  
+jobs:
+  tests:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup .NET Core SDK
+        uses: actions/setup-dotnet@v1
+        with:
+            dotnet-version: '8.0'
+
+      - name: Restore dependencies
+        run: dotnet restore
+
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Test
+        run: dotnet test --configuration Release --no-build --logger "trx;LogFileName=test_results.trx" --results-directory ./test_results
+
+      - name: Publish Test Results
+        uses: actions/upload-artifact@v2
+        with:
+          name: TestResults
+          path: ./test_results
