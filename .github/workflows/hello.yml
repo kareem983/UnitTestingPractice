@@ -1,0 +1,22 @@
+name: Hello World!
+
+on:
+ push:
+  branches:
+  - 'main'
+  
+  
+jobs:
+  say-hello:
+    runs-on: windows-latest
+
+    steps:
+      - name: Say Hello World!
+        run: echo "Hello World, I'm running!"
+
+  say-hi:
+    runs-on: windows-latest
+
+    steps:
+      - name: Say Hi!
+        run: echo "Hi World, I'm running!"

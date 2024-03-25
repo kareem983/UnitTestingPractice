@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7MHhlHCKE7YU5eMxarcaEgMDBtelZKEOr4nSS+KIVkb9PgWDwq72H4R40z5EUBTWl+02MV9HgKSRCmz2bRMXyA==",
+  "dgSpecHash": "nZwtX6hiotHAY4dCJ91swqozFV8EX68/T6wdgy34aUoxqiufHzQM8yDz7+xDTScXcIVnn676iymOTlAmUR4y9Q==",
   "success": true,
-  "projectFilePath": "D:\\Resources\\Projects\\UnitTestingPractice\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
