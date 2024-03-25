@@ -1,0 +1,24 @@
+name: Hello to the Repository
+
+on:
+  push:
+    branches:
+      - 'main'
+  pull_request:
+    branches:
+      - main
+  
+jobs:
+  say-hello:
+    runs-on: windows-latest
+
+    steps:
+      - name: Say Hello to the repository!
+        run: echo "Hello World, I'm running!"
+
+  say-hi:
+    runs-on: windows-latest
+
+    steps:
+      - name: Say Hi!
+        run: echo "Hi to the repository, I'm running!"

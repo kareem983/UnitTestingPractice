@@ -8258,11 +8258,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj",
+      "projectUniqueName": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj",
       "projectName": "UnitTestingPractice",
-      "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj",
+      "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj",
       "packagesPath": "C:\\Users\\NSDIC\\.nuget\\packages\\",
-      "outputPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\obj\\",
+      "outputPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NSDIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8279,11 +8279,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Resources\\Projects\\UnitTestingPractice\\Core\\Core.csproj": {
-              "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\Core\\Core.csproj"
+            "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj": {
+              "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj"
             },
-            "D:\\Resources\\Projects\\UnitTestingPractice\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
