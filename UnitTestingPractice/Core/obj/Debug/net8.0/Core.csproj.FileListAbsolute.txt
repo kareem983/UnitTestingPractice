@@ -9,3 +9,15 @@ D:\Resources\Projects\UnitTestingPractice\Core\obj\Debug\net8.0\Core.dll
 D:\Resources\Projects\UnitTestingPractice\Core\obj\Debug\net8.0\refint\Core.dll
 D:\Resources\Projects\UnitTestingPractice\Core\obj\Debug\net8.0\Core.pdb
 D:\Resources\Projects\UnitTestingPractice\Core\obj\Debug\net8.0\ref\Core.dll
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\bin\Debug\net8.0\Core.deps.json
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\bin\Debug\net8.0\Core.dll
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\bin\Debug\net8.0\Core.pdb
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\Core.dll
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\Core.pdb
+D:\Resources\Projects\UnitTestingPractice\UnitTestingPractice\Core\obj\Debug\net8.0\ref\Core.dll
