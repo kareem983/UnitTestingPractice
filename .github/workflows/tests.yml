@@ -23,5 +23,6 @@ jobs:
              
 
       - name: Test
+        working-directory: ./UnitTestingPractice
         run: dotnet test 
  
