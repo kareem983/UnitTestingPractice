@@ -47,6 +47,12 @@ namespace Infrastructure.Services
         {
             try
             {
+                var productDb = await _dbContext.Products.Where(x => x.ProductName == product.ProductName).FirstOrDefaultAsync();
+                if(productDb != null)
+                {
+                    return null;
+                }
+
                 var result = await _dbContext.Products.AddAsync(product);
                 await _dbContext.SaveChangesAsync();
 

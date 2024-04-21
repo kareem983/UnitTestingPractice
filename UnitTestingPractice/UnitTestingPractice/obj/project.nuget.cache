@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LaLvHZODabw67JWNcgepraXSJqQ/mNBqEqFsKkg4ZsY3rndBlvFvSXkthdFSQQoSDrvxrUK+OHQk0kFSBVlc9g==",
+  "dgSpecHash": "Z5Do1KhNptTicGCbnbUyHXt05Rn16CS/LHTWrA3781dp4+QYb7JsQkJ/mEjsnb2oZdAVS0MPSvgW/RpQh1Ytww==",
   "success": true,
-  "projectFilePath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj",
+  "projectFilePath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NSDIC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\NSDIC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

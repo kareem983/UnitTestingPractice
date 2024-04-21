@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj",
+      "projectUniqueName": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj",
+      "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\NSDIC\\.nuget\\packages\\",
-      "outputPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Core\\obj\\",
+      "outputPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NSDIC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13352,11 +13352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTests\\UnitTests.csproj",
+      "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\NSDIC\\.nuget\\packages\\",
-      "outputPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTests\\obj\\",
+      "outputPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NSDIC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13373,11 +13373,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj": {
-              "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj"
+            "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj": {
+              "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\Core\\Core.csproj"
             },
-            "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj": {
-              "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj"
+            "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj": {
+              "projectPath": "D:\\Resources\\Projects\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice\\UnitTestingPractice.csproj"
             }
           }
         }
